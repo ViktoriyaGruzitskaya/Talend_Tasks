@@ -1,0 +1,7 @@
+--------------------------------------------------------
+--  DDL for Table LOADEDFILES
+--------------------------------------------------------
+
+  CREATE TABLE "VG_TALEND"."LOADEDFILES" 
+   (	"FILENAMES" VARCHAR2(50 BYTE)
+   )  ;
